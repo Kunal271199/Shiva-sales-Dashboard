@@ -13,3 +13,6 @@
 
 4. Data Source :
      Data source taken from Kaggle in csv format.        
+
+5. Screenshot :
+      https://github.com/Kunal271199/Shiva-sales-Dashboard/blob/main/Shiva%20Ecommerce%20snapshot.png
