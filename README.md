@@ -1,6 +1,6 @@
-# Shiva-sales-Dashboard 
+#E-Commerce sales Dashboard 
 1. Project Title :
-     Shiva E-Commerce Sales Analysis Dashboard
+      E-Commerce Sales Analysis Dashboard
 
 2. Purpose :
      Created interactive dashboard to track and analyze online sales data.
